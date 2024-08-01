@@ -1,0 +1,6 @@
+{
+  "package_name": "velodyne_test",
+  "non_idl_tuples": [
+    "/home/megez/ros2_ws/src/velodyne_test2:msg/VelodynePacket.msg"
+  ]
+}
